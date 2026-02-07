@@ -11,11 +11,11 @@ $(function () {
 
   var homeHtmlUrl = "./snippets/home-snippet.html";
   var allCategoriesUrl =
-    "https://davids-restaurant.herokuapp.com/categories.json";
+  "https://raw.githubusercontent.com/jhu-ep-coursera/fullstack-course4/master/examples/Lecture57/categories.json";
   var categoriesTitleHtml = "./snippets/categories-title-snippet.html";
   var categoryHtml = "./snippets/category-snippet.html";
   var menuItemsUrl =
-    "https://davids-restaurant.herokuapp.com/menu_items.json?category=";
+  "https://raw.githubusercontent.com/jhu-ep-coursera/fullstack-course4/master/examples/Lecture57/menu_items.json?category=";
   var menuItemsTitleHtml = "./snippets/menu-items-title.html";
   var menuItemHtml = "./snippets/menu-item.html";
 
